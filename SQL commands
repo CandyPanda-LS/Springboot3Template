@@ -1,0 +1,3 @@
+/Creating the database
+psql -U Lasal
+CREATE DATABASE customer;
